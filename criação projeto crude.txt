@@ -1,0 +1,11 @@
+aplicativo aspnet.core(control)
+
+Pesquisar:
+	Data annotations
+
+appsetting.json conexao Data Source=(nome do servidor sql)
+trusted_connection = true caso use autentificação do Windows no SQL
+
+Console do gerenciador de pacotes
+
+Jquery table
